@@ -1,3 +1,3 @@
-console.log("Hola Antonio 2");
+console.log("Hola Antonio");
 console.log("Stefany Apolo");
 console.log("Hola Andrés");
